@@ -10,6 +10,10 @@ An order-registration automation with n8n: a chatbot connected to an AI model th
 
 Stack: n8n, REST API / webhooks, prompt engineering, Google Sheets.
 
+## Projects
+
+[**exercicios-python-faculdade**](https://github.com/leobalaban/exercicios-python-faculdade): console exercises from my Programming Fundamentals class (Python), covering loops, conditionals, functions, lists and tuples. Includes a BMI classifier, a cash register with tiered discounts, a class grade analyzer, a menu-driven grading system with ranking, and a number-guessing game with scoring.
+
 ## Background
 
 3rd place out of 10 teams in Faculdade Positivo's programming marathon (2026), solving 7 of 10 Python challenges with a team of three.
