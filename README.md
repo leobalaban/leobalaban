@@ -36,6 +36,8 @@ Learning now: Power BI, GCP basics, English (A2)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=leobalaban&custom_title=Stats%20Leobalaban&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=leobalaban&custom_title=Stats%20Leobalaban&show_icons=true&include_all_commits=true&theme=dark)
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=leobalaban&langs_count=5&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=leobalaban&langs_count=5&theme=dark)
 
+![Snake animation](https://raw.githubusercontent.com/leobalaban/leobalaban/output/github-contribution-grid-snake.svg)
+
 ## Contact
 
 LinkedIn: [linkedin.com/in/leonardobalaban](https://www.linkedin.com/in/leonardobalaban/)
