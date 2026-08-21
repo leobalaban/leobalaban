@@ -2,6 +2,8 @@
 
 Software Engineering student at Faculdade Positivo, in Curitiba, Brazil (2nd semester). I'm focused on Python, SQL and AI-powered automation, and looking for an internship in data, automation or AI.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardobalaban/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balabanleonado@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leobalaban/)
+
 ## What I'm building
 
 An order-registration automation with n8n: a chatbot connected to an AI model that logs orders into a spreadsheet instead of writing them down by hand. I started from an automation course and I'm now rebuilding the flow node by node, to understand each step and adapt it to my own use case.
@@ -17,10 +19,17 @@ Coursework in progress: Algoritmos e Pensamento Computacional, Modelagem de Banc
 
 ## Skills
 
-Languages & data: Python, SQL, database modeling
-Web: HTML5, CSS3
-Tools: Git, GitHub, Excel, Scrum, Kanban
-Learning now: C, Power BI, GCP basics, English (A2)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+Learning now: Power BI, GCP basics, English (A2)
 
 ## GitHub Stats
 
@@ -30,4 +39,5 @@ Learning now: C, Power BI, GCP basics, English (A2)
 ## Contact
 
 LinkedIn: [linkedin.com/in/leonardobalaban](https://www.linkedin.com/in/leonardobalaban/)
+Instagram: [instagram.com/leobalaban](https://www.instagram.com/leobalaban/)
 Email: balabanleonado@gmail.com
