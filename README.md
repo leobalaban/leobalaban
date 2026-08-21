@@ -12,7 +12,7 @@ Stack: n8n, REST API / webhooks, prompt engineering, Google Sheets.
 
 ## Projects
 
-[**exercicios-python-faculdade**](https://github.com/leobalaban/exercicios-python-faculdade): console exercises from my Programming Fundamentals class (Python), covering loops, conditionals, functions, lists and tuples. Includes a BMI classifier, a cash register with tiered discounts, a class grade analyzer, a menu-driven grading system with ranking, and a number-guessing game with scoring.
+[**exercicios-python-faculdade**](https://github.com/leobalaban/exercicios-python-faculdade): 10 console exercises from my Programming Fundamentals class (Python), covering loops, conditionals, functions, lists and tuples. Includes a BMI classifier, a cash register with tiered discounts, a class grade analyzer, a menu-driven grading system with ranking, a number-guessing game, and a few real-world calculators (electricity bill, loan approval, salary raise).
 
 ## Background
 
