@@ -47,3 +47,8 @@ Learning now: Power BI, GCP basics, English (A2)
 LinkedIn: [linkedin.com/in/leonardobalaban](https://www.linkedin.com/in/leonardobalaban/)
 Instagram: [instagram.com/leobalaban](https://www.instagram.com/leobalaban/)
 Email: balabanleonado@gmail.com
+
+### Certificações
+- Microsoft Learn — Introdução ao Git (concluído 02/09/2026)
+- Microsoft Learn — Introdução ao GitHub (concluído 08/09/2026)
+[Ver credenciais](https://learn.microsoft.com/pt-br/users/leonardobalaban-9153/achievements)
