@@ -52,3 +52,11 @@ Email: balabanleonado@gmail.com
 - Microsoft Learn — Introdução ao Git (concluído 02/09/2026)
 - Microsoft Learn — Introdução ao GitHub (concluído 08/09/2026)
 [Ver credenciais](https://learn.microsoft.com/pt-br/users/leonardobalaban-9153/achievements)
+
+<!-- SEGUNDO-CEREBRO:BADGES:START -->
+
+## Learning & Badges
+
+- Google Cloud / Google Skills — Introduction to Generative AI — Completion Badge — 14/09/2026
+
+<!-- SEGUNDO-CEREBRO:BADGES:END -->
